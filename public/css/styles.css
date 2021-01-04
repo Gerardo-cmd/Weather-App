@@ -73,7 +73,7 @@ p {
     background: white;
 }
 
-li, ul, .apiLink {
+li, ul, .apiLink, a{
     background: white;
     text-decoration: none;
 }

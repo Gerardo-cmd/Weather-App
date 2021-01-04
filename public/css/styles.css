@@ -1,0 +1,79 @@
+* {
+    background: linear-gradient(to bottom right, #62e8f9 38%, #fff70a 78%);
+}
+body {
+    background: white;
+    color: #333333;
+    font-family: arial;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    background: white;
+    flex-grow: 1;
+}
+
+footer {
+    background: white;
+    color: #888888;
+    border-top: 1px solid #eeeeee;
+    margin-top: 16px;
+    padding: 10px 0;
+}
+
+header {
+    background: white;
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+
+h1 {
+    background: white;
+    font-size: 64px;
+    margin-bottom: 16px;
+}
+
+header a {
+    background: white;
+    color: #888888;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.portrait {
+    background: white;
+    width: 250px;
+}
+
+input {
+    background: white;
+    border: 1px solid #cccccc;
+    padding: 8px;
+}
+
+form {
+    background: white;
+}
+
+button {
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color: white;
+    padding: 8px;
+}
+
+p {
+    background: white;
+}
+
+li, ul, .apiLink {
+    background: white;
+    text-decoration: none;
+}
